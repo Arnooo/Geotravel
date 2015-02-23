@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "74132064", "name": "Hà Nội", "type": "city", "Lat": 21.029210, "Long": 105.852470 }, "geometry": { "type": "Point", "coordinates": [ 105.85247, 21.0292095 ] } },
+{ "type": "Feature", "properties": { "osm_id": "110506070", "name": "Hội An", "type": "city", "Lat": 15.879382, "Long": 108.327397 }, "geometry": { "type": "Point", "coordinates": [ 108.3273966, 15.8793816 ] } },
+{ "type": "Feature", "properties": { "osm_id": "369487099", "name": "Huế", "type": "city", "Lat": 16.477025, "Long": 107.575634 }, "geometry": { "type": "Point", "coordinates": [ 107.575634, 16.4770248 ] } },
+{ "type": "Feature", "properties": { "osm_id": "2915836616", "name": "Quận 5", "type": "suburb", "Lat": 10.756129, "Long": 106.670376 }, "geometry": { "type": "Point", "coordinates": [ 106.6703755, 10.756129 ] } }
+]
+}
